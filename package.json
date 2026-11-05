@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-implement-spec",
+  "version": "1.0.0",
+  "description": "Implement a spec and its ticket graph on one integration branch using Pi workers.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "implement-spec",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-implement-spec.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-implement-spec#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
